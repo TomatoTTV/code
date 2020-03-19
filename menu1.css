@@ -23,10 +23,12 @@
     color: #00ad82
 }
 
-#matchvoteholder .matchvote {
+#matchvoteholder #matchvote {
     left: 80% !important;
     width: 100px !important;
     padding: 15%;
+    display: inline-block;
+    margin-left: 8px;
 }
 
 .menuItem:hover {
@@ -202,7 +204,8 @@ width: 2px;
     bottom: 13%;
     left: 50%;
     transform: translate(-50%,0);
-    pointer-events:all; 
+    pointer-events:all;
+    height: 40px;
 }
 
 
