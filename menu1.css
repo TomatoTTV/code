@@ -23,6 +23,12 @@
     color: #00ad82
 }
 
+#matchvoteholder .matchvote {
+    left: 80% !important;
+    width: 100px !important;
+    padding: 15%;
+}
+
 .menuItem:hover {
     background: #05b39b
 }
