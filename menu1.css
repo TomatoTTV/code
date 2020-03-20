@@ -3,7 +3,11 @@
     src: url("fonts/inject.ttf");
         color: gray;
 }
-
+.name_TomatoTTV {
+    color: blue;
+    Filter: :drop-shadow(0 0 0.05vw rgb(68, 68, 68))!important
+    position: relative;
+}
 .clan_dyna {
     position:relative;
     color:yellow;
