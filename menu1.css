@@ -8,10 +8,14 @@
     Filter:drop-shadow(0 0 0.05vw rgb(68, 68, 68))!important;
     position: relative;
 }
-.clan_dyna {
-    position:relative;
-    color:yellow;
-    filter:drop-shadow(0 0 .05vw rgb(68, 68, 68))!important
+.clan_OSU {
+position:relative;
+color:transparent!important;
+background-image:url(https://imgur.com/Fzvzo2V);
+background-size:135%;
+background-repeat:no-repeat;
+background-position:-.5vw -2.7vh;
+filter:drop-shadow(0 0 .05vw #000)!important
 }
 	
 #menuItemContainer {
